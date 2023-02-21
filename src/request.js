@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const API_KEY = '4799c63a71fb9a954687724c250a1557';
+export const API_KEY = 'xxxxxxxxxxxxxxx';//個々人のAPIを設定
 
 export const requests = {
   fetchTrending: `https://api.themoviedb.org/3/trending/all/week?api_key=${API_KEY}&language=en-us`,
