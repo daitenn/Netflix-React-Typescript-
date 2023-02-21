@@ -19,4 +19,5 @@ firebase 9.17.1</br>
 ## 外部API
 TMDB
 
-
+## URL
+https://netflix-clone-15100.web.app/
