@@ -4,7 +4,7 @@ javascriptライブラリの一つである
 ```
 axios.get()
 ```
-を利用。
+を利用しAPIを取得。
 また、そのaxiosモジュールのインストール方法は
 ```
 npm install axios
